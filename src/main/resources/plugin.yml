@@ -1,0 +1,4 @@
+name: LcRanchBind
+main: com.meteor.lcranchbind.BukkitMain
+version: 1.0
+author: meteor
